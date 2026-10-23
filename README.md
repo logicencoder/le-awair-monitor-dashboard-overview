@@ -1,5 +1,7 @@
 # Awair Monitor Dashboard
 
+![Awair environmental metrics and measurement history](assets/overview-2026-10-24.png)
+
 Indoor conditions are easier to understand when the latest readings can be compared with what happened earlier. Awair Monitor Dashboard brings Awair Element measurements, trends and history into one workspace, helping users notice changes in a room without repeatedly switching between device readings and separate reports.
 
 ## Tech stack
