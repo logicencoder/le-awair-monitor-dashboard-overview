@@ -49,3 +49,5 @@ See [REPOS.md](REPOS.md) for related repositories.
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
 
+![Awair Monitor Dashboard settings for sensors, appearance and language](assets/awair-monitor-dashboard-settings-sensors-appearance-language.png)
+
