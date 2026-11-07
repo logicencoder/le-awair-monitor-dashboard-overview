@@ -1,6 +1,6 @@
 # Awair Monitor Dashboard
 
-![Awair environmental metrics and measurement history](assets/awair-monitor-dashboard-indoor-metrics-history.png)
+![Awair Monitor Dashboard air quality score, metrics and history](assets/awair-monitor-dashboard-air-quality-score-trend-history.png)
 
 Indoor conditions are easier to understand when the latest readings can be compared with what happened earlier. Awair Monitor Dashboard brings Awair Element measurements, trends and history into one workspace, helping users notice changes in a room without repeatedly switching between device readings and separate reports.
 
@@ -49,4 +49,3 @@ See [REPOS.md](REPOS.md) for related repositories.
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
 
-<!-- TODO(screenshots, 2026-11-07): new screenshot -->
